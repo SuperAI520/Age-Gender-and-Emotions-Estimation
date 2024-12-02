@@ -1,5 +1,4 @@
 # Face-Recognition-Model-with-Gender-Age-and-Emotions-Estimations
-Capstone Project by [Bertrand Lee](https://github.com/bertrandlee) and [Riley Kwok](https://github.com/rileykwok)
 
 ## Table of Contents
 + [About](#about)
